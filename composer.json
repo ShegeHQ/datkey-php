@@ -1,0 +1,22 @@
+{
+    "name": "shege/datkey-php",
+    "description": "Datkey API Client for PHP",
+    "type": "library",
+    "require": {
+        "ext-curl": "*"
+    },
+    "require-dev": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shege\\DatkeyPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Okoh",
+            "email": "michael@okoh.co.uk"
+        }
+    ]
+}
